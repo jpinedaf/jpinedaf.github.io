@@ -1,18 +1,17 @@
 {
   "color": "#34618e",
   "google_analytics_ID": "UA-54037920-13",
-  "sub_title": "Eu pariatur nostrud laboris.",
+  "sub_title": "Astrophysicist.",
   "tabs": [
     "home",
     "research",
     "work",
     "outreach",
-    "teaching",
     "cv"
   ],
   "home": {
     "description": "I'm an astronomer at the The Center for Astrochemical Studies of the Max Planck Institute for Extraterrestrial Physics. Previously I was at the UK ALMA Regional Center in Manchester (UK), with an ESO ALMA COFUND fellowship and later at Institute for Astronomy of the ETH Zürich. I am interested in the star formation process, starting from large scales (molecular clouds) down to the protoplanetary disks. In particular, I focus on using the gas kinematics to understand the physical processes behind star formation. For this I also use astrochemistry as a tool to guide the planification and analysis of observations. Before moving to the UK I obtained a PhD in Astronomy from Harvard University, and before that my BSc and MSc in Astronomy from Universidad de Chile. As a PhD student, I worked as part of the COMPLETE survey with my advisor Alyssa Goodman.",
-    "highlight": "Anim nisi sed tempor culpa ullamco excepteur do ut minim exercitation dolore consectetur duis laboris.",
+    "highlight": "Interests: Star formation; gas kinematics; interferometry and image analysis; astrostatistics; astrochemistry.",
     "contact": [
       {
         "text": "Max-Planck-Institut für extraterrestrische Physik"
@@ -28,37 +27,31 @@
       },
       {
         "type": "email",
-        "text": "lorem@ipsum.com"
+        "text": "jpineda@mpe.mpg.de"
       },
       {
         "type": "phone",
-        "text": "+1 234 5678 910"
+        "text": "+49 (0)89 30000-3610"
       }
     ],
     "fields": [
-      "Et in ut",
-      "Ut magna fugiat",
-      "Ut deserunt",
-      "Ex dolore"
-    ],
-    "references": [
-      {"type": "link", "link": "https://example.com/john_doe_1", "text": "Duis Consequat"},
-      {"type": "link", "link": "https://example.com/john_doe_2", "text": "Lorem Ipsum"},
-      {"type": "link", "link": "https://example.com/john_doe_3", "text": "Officia Nulla"},
-      {"type": "link", "link": "https://example.com/john_doe_M", "text": "Pariatur Proident"}
+      "Star Formation",
+      "Gas kinematics",
+      "Molecular Clouds",
+      "Disk Formation"
     ],
     "links": [
       {
-        "text": "In esse",
-        "link": "https://www.example.com/link_1"
+        "text": "GBT Ammoia Survey",
+        "link": "https://greenbankobservatory.org/science/gbt-surveys/gas-survey-2/"
       },
       {
-        "text": "Ipsum tempor",
-        "link": "https://www.example.com/link_..."
+        "text": "CAS",
+        "link": "http://www.mpe.mpg.de/CAS"
       },
       {
-        "text": "Fugiat elit",
-        "link": "https://www.example.com/link_K"
+        "text": "GitHub",
+        "link": "https://www.github.com/jpinedaf"
       }
     ]
   },
@@ -234,65 +227,6 @@
           "title": "Aute dolore in velit do cillum deserunt nostrud dolor cupidatat.",
           "authors": ["Author 1", "Author 2", "Author 3", "Author 4", "Author 5"],
           "abstract": "Cillum dolor aliquip ut non mollit dolor ut dolor sunt tempor reprehenderit esse amet ea eu minim amet id consequat elit incididunt excepteur sit amet deserunt dolore esse duis ex proident anim laboris tempor id enim mollit laborum sint dolor exercitation sit ea laborum proident amet id nostrud et qui ut consequat consectetur adipisicing ut occaecat irure amet cupidatat cupidatat dolor exercitation esse ea aliqua quis consequat et nisi sunt esse enim consequat tempor sunt ad ea sunt in commodo pariatur aliquip non est reprehenderit pariatur est do reprehenderit in deserunt veniam aliquip voluptate incididunt tempor et in do aliqua eu labore culpa voluptate ut excepteur ut amet amet esse commodo duis exercitation fugiat exercitation reprehenderit deserunt laboris nulla excepteur veniam culpa minim enim consectetur mollit incididunt sunt incididunt cupidatat aliqua quis dolore sed anim fugiat qui anim ut cillum irure aliquip exercitation non dolore cillum in nostrud esse id deserunt occaecat deserunt consequat ad sed culpa dolore in exercitation labore dolore ut aliquip non laborum deserunt culpa fugiat sint in quis et pariatur ullamco do nostrud ea eu tempor consectetur dolor amet aute irure cupidatat anim mollit aute duis aliqua do cillum aliquip in dolore eiusmod ullamco ut ex adipisicing sit sed anim adipisicing enim labore reprehenderit amet commodo amet non elit proident nulla dolore aliqua exercitation ut cupidatat magna sunt ut elit in officia ut laborum aute proident incididunt enim voluptate adipisicing ut sit in sed adipisicing deserunt nulla ut aute labore culpa enim adipisicing exercitation sint tempor eiusmod eu tempor laborum ad."
-        }
-      ]
-    }
-  ],
-  "teaching": [
-    {
-      "title": "Amet eiusmod",
-      "items": [
-        {
-          "date": "Spring 2019",
-          "text": "Est anim adipisicing labore aute cillum.",
-          "fields": [
-            {
-              "text": "Ea ea nisi est.",
-              "highlighted": true
-            },
-            {
-              "text": "Culpa ut incididunt ullamco consectetur cupidatat aute est qui excepteur reprehenderit ad occaecat dolor ad."
-            }
-          ]
-        },
-        {
-          "date": "Fall 2017",
-          "text": "Elit fugiat enim in veniam voluptate nulla.",
-          "fields": [
-            {
-              "text": "Aliqua ut."
-            }
-          ]
-        },
-        {
-          "date": "Winter 2014",
-          "text": "Excepteur exercitation do cupidatat ea id.",
-          "fields": [
-            {
-              "text": "Lorem ipsum sed deserunt eiusmod."
-            },
-            {
-              "text": "Fugiat proident veniam occaecat velit enim minim ut pariatur.",
-              "highlighted": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Laborum enim aliquip laboris",
-      "items": [
-        {
-          "date": "Since Summer 2017",
-          "text": "Ut elit reprehenderit laboris."
-        },
-        {
-          "date": "Since Summer 2018",
-          "text": "Irure laborum."
-        },
-        {
-          "date": "Since Summer 2019",
-          "text": "Anim ad."
         }
       ]
     }
