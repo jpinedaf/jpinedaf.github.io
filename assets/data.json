@@ -15,15 +15,16 @@
     "highlight": "Anim nisi sed tempor culpa ullamco excepteur do ut minim exercitation dolore consectetur duis laboris.",
     "contact": [
       {
-        "text": "Max-Planck-Institut für extraterrestrische Physik\nGiessenbachstrasse 1\n85748 Garching\nGermany"
+        "text": "Max-Planck-Institut für extraterrestrische Physik"
       },
       {
-        "type": "link",
-        "text": "Magna dolore",
-        "link": "https://www.example.com/"
+        "text": "Giessenbachstrasse 1"
       },
       {
-        "text": "Proident aute"
+        "text": "85748 Garching"
+      },
+      {
+        "text": "Germany"
       },
       {
         "type": "email",
