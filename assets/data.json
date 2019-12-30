@@ -64,9 +64,6 @@
         {
           "always_expanded": true,
           "abstract": "Below you will find a sample of the different topics I have worked on.",
-          // "images": [
-          //   "assets/images/B5_transition_to_coherence.jpg"
-          // ]
         }
       ]
     },
@@ -133,71 +130,6 @@
       ]
     }
   ],
-  // "work": [
-  //   {
-  //     "title": "Lorem ipsum ea consectetur",
-  //     "papers": [
-  //       {
-  //         "title": "Pariatur eiusmod irure officia sed veniam nulla voluptate in adipisicing tempor officia ullamco sunt",
-  //         "link": "https://www.example.com/link_1",
-  //         "authors": ["xx/yyyy  -  zz/wwww"],
-  //         "abstract": "Fugiat amet exercitation sed velit ex sed commodo irure cillum cillum aliquip occaecat dolore sint exercitation eu excepteur veniam mollit.",
-  //         "more_info": [
-  //           {
-  //             "text": "Cupidatat adipisicing veniam laborum et."
-  //           }
-  //         ]
-  //       },
-  //       {
-  //         "title": "Pariatur eu in pariatur",
-  //         "link": "https://www.example.com/link_2",
-  //         "authors": ["xx/yyyy"],
-  //         "abstract": "Lorem ipsum cillum sed adipisicing dolore officia ea excepteur reprehenderit ullamco proident voluptate nulla laboris elit et proident cupidatat magna laborum anim incididunt in dolore officia pariatur ut magna aute adipisicing aliquip cupidatat minim consequat enim labore irure deserunt pariatur nostrud eu adipisicing esse reprehenderit sit velit elit eu ullamco sed nisi occaecat aliqua non occaecat ut tempor qui in dolor commodo aute consectetur eiusmod ad ea culpa do officia qui deserunt ut elit eu anim ut veniam esse dolore ut et sint ut cillum eu ad irure proident ullamco officia tempor ut ut commodo tempor dolore magna do officia esse ea ex tempor sunt ut exercitation reprehenderit magna ut ullamco dolor ut sit dolore in dolore in fugiat ut mollit duis magna cillum sint consectetur et tempor voluptate sint nisi do mollit cillum nostrud veniam dolor non nostrud tempor ut aliquip sunt irure velit culpa pariatur irure adipisicing.",
-  //         "more_info": [
-  //           {
-  //             "text": "Lorem ipsum exercitation aliquip ea voluptate excepteur pariatur ut id cillum sunt consequat sed ut incididunt ad minim ut veniam ad"
-  //           }
-  //         ]
-  //       },
-  //       {
-  //         "title": "Et anim ut cupidatat excepteur et consectetur nulla aute amet exercitation proident voluptate ullamco in",
-  //         "link": "https://www.example.com/link_3",
-  //         "authors": ["xxxx", "yyyy", "zzzz"],
-  //         "abstract": "Dolor ut irure fugiat incididunt nisi reprehenderit aute nisi amet id incididunt ad aliqua cillum ut reprehenderit voluptate fugiat elit labore consequat culpa do tempor velit aliqua incididunt deserunt excepteur anim mollit sint nisi magna sint amet consectetur amet voluptate adipisicing ex anim nostrud consectetur incididunt incididunt aliquip ut adipisicing non commodo in anim pariatur cupidatat magna eiusmod nostrud ullamco excepteur cupidatat et ut eiusmod nulla in nostrud excepteur dolore nostrud dolor excepteur ex aute aliquip laborum amet est mollit voluptate nulla in non amet aliqua dolor dolor nostrud pariatur laborum do ut reprehenderit ut dolore laborum officia culpa sunt laborum exercitation proident labore pariatur dolore aliqua nisi qui adipisicing cillum ea sed fugiat ullamco consectetur ad excepteur in in incididunt ullamco nisi aute nisi fugiat eiusmod aute quis in anim minim laboris amet sunt sit qui laboris aliqua culpa officia ut velit cillum qui elit aliquip exercitation aliquip commodo deserunt dolor duis reprehenderit adipisicing eiusmod duis minim ut proident proident dolor nulla commodo amet commodo nisi aute qui cupidatat amet nisi excepteur incididunt nostrud et minim adipisicing nisi occaecat velit culpa occaecat et proident pariatur aute dolor in elit commodo sint tempor mollit nisi proident dolor proident minim ad tempor dolore dolore do dolore pariatur laborum dolore ut proident laboris cupidatat et in amet eiusmod nisi proident magna labore minim tempor eiusmod elit do",
-  //         "more_info": [
-  //           {
-  //             "text": "Consequat fugiat id",
-  //             "highlighted": true
-  //           }
-  //         ]
-  //       }
-  //     ]
-  //   },
-  //   {
-  //     "title": "Esse commodo sint",
-  //     "papers": [
-  //       {
-  //         "title": "Aute dolore in velit do cillum deserunt nostrud dolor cupidatat",
-  //         "authors": ["Author 1", "Author 2", "Author 3", "Author 4", "Author 5"],
-  //         "abstract": "Cillum dolor aliquip ut non mollit dolor ut dolor sunt tempor reprehenderit esse amet ea eu minim amet id consequat elit incididunt excepteur sit amet deserunt dolore esse duis ex proident anim laboris tempor id enim mollit laborum sint dolor exercitation sit ea laborum proident amet id nostrud et qui ut consequat consectetur adipisicing ut occaecat irure amet cupidatat cupidatat dolor exercitation esse ea aliqua quis consequat et nisi sunt esse enim consequat tempor sunt ad ea sunt in commodo pariatur aliquip non est reprehenderit pariatur est do reprehenderit in deserunt veniam aliquip voluptate incididunt tempor et in do aliqua eu labore culpa voluptate ut excepteur ut amet amet esse commodo duis exercitation fugiat exercitation reprehenderit deserunt laboris nulla excepteur veniam culpa minim enim consectetur mollit incididunt sunt incididunt cupidatat aliqua quis dolore sed anim fugiat qui anim ut cillum irure aliquip exercitation non dolore cillum in nostrud esse id deserunt occaecat deserunt consequat ad sed culpa dolore in exercitation labore dolore ut aliquip non laborum deserunt culpa fugiat sint in quis et pariatur ullamco do nostrud ea eu tempor consectetur dolor amet aute irure cupidatat anim mollit aute duis aliqua do cillum aliquip in dolore eiusmod ullamco ut ex adipisicing sit sed anim adipisicing enim labore reprehenderit amet commodo amet non elit proident nulla dolore aliqua exercitation ut cupidatat magna sunt ut elit in officia ut laborum aute proident incididunt enim voluptate adipisicing ut sit in sed adipisicing deserunt nulla ut aute labore culpa enim adipisicing exercitation sint tempor eiusmod eu tempor laborum ad"
-  //       }
-  //     ]
-  //   },
-  //   {
-  //     "title": "In adipisicing",
-  //     "papers": [
-  //       {
-  //         "title": "Lorem ipsum esse laboris.",
-  //         "authors": ["Author X", "Author Y", "Author Z"]
-  //       },
-  //       {
-  //         "title": "Lorem ipsum esse laboris.",
-  //         "authors": ["Author X", "Author Y", "Author Z"],
-  //         "abstract": "Sint irure aute tempor."
-  //       }
-  //     ]
-  //   }
-  // ],
   "cv": {
     "link": "http://www.example.com/cv.pdf",
     "sections": [
