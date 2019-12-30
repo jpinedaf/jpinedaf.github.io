@@ -1,391 +1,293 @@
 {
   "color": "#34618e",
   "google_analytics_ID": "UA-54037920-13",
-  "sub_title": "Eu pariatur nostrud laboris.",
+  "sub_title": "Astrophysicist.",
   "tabs": [
     "home",
     "research",
     "work",
     "outreach",
-    "teaching",
     "cv"
   ],
   "home": {
-    "description": "Id labore mollit cupidatat officia occaecat dolor sunt do pariatur consequat ut nisi sed in sint enim consequat amet laboris sed est consequat labore ut laborum consectetur ullamco proident consequat sed proident laboris minim irure proident sit incididunt officia amet cupidatat in dolor laboris ut velit sit commodo velit ad cupidatat aute cillum minim aute mollit deserunt sit officia officia tempor commodo excepteur dolor excepteur ea laboris fugiat esse cillum dolore sit deserunt.",
-    "highlight": "Anim nisi sed tempor culpa ullamco excepteur do ut minim exercitation dolore consectetur duis laboris.",
+    "description": "I'm an astronomer at the The Center for Astrochemical Studies of the Max Planck Institute for Extraterrestrial Physics. Previously I was at the UK ALMA Regional Center in Manchester (UK), with an ESO ALMA COFUND fellowship and later at Institute for Astronomy of the ETH Zürich. I am interested in the star formation process, starting from large scales (molecular clouds) down to the protoplanetary disks. In particular, I focus on using the gas kinematics to understand the physical processes behind star formation. For this I also use astrochemistry as a tool to guide the planification and analysis of observations. Before moving to the UK I obtained a PhD in Astronomy from Harvard University, and before that my BSc and MSc in Astronomy from Universidad de Chile. As a PhD student, I worked as part of the COMPLETE survey with my advisor Alyssa Goodman.",
+    "highlight": "Interests: Star formation; gas kinematics; interferometry and image analysis; astrostatistics; astrochemistry.",
     "contact": [
       {
-        "text": "Quis dolor"
+        "text": "Max-Planck-Institut für extraterrestrische Physik"
       },
       {
-        "type": "link",
-        "text": "Magna dolore",
-        "link": "https://www.example.com/"
+        "text": "Giessenbachstrasse 1"
       },
       {
-        "text": "Proident aute"
+        "text": "85748 Garching"
+      },
+      {
+        "text": "Germany"
       },
       {
         "type": "email",
-        "text": "lorem@ipsum.com"
+        "text": "jpineda@mpe.mpg.de"
       },
       {
         "type": "phone",
-        "text": "+1 234 5678 910"
+        "text": "+49 (0)89 30000-3610"
       }
     ],
     "fields": [
-      "Et in ut",
-      "Ut magna fugiat",
-      "Ut deserunt",
-      "Ex dolore"
-    ],
-    "references": [
-      {"type": "link", "link": "https://example.com/john_doe_1", "text": "Duis Consequat"},
-      {"type": "link", "link": "https://example.com/john_doe_2", "text": "Lorem Ipsum"},
-      {"type": "link", "link": "https://example.com/john_doe_3", "text": "Officia Nulla"},
-      {"type": "link", "link": "https://example.com/john_doe_M", "text": "Pariatur Proident"}
+      "Star Formation",
+      "Gas kinematics",
+      "Molecular Clouds",
+      "Disk Formation"
     ],
     "links": [
       {
-        "text": "In esse",
-        "link": "https://www.example.com/link_1"
+        "text": "GBT Ammonia Survey",
+        "link": "https://greenbankobservatory.org/science/gbt-surveys/gas-survey-2/"
       },
       {
-        "text": "Ipsum tempor",
-        "link": "https://www.example.com/link_..."
+        "text": "CAS",
+        "link": "http://www.mpe.mpg.de/CAS"
       },
       {
-        "text": "Fugiat elit",
-        "link": "https://www.example.com/link_K"
+        "text": "GitHub",
+        "link": "https://www.github.com/jpinedaf"
       }
     ]
   },
   "research": [
     {
-      "title": "Cillum dolore quis laborum aliqua",
+      "title": "Assembling the Star- and Planet-Formation Puzzle",
       "papers": [
         {
           "always_expanded": true,
-          "abstract": "Lorem ipsum sunt veniam reprehenderit est ea aliquip qui do ad elit incididunt irure aliqua quis ad cupidatat do ut laborum in ea cillum sint fugiat aliqua voluptate eiusmod reprehenderit quis ut nostrud anim nisi mollit dolor excepteur ut ullamco."
+          "abstract": "I strive for obtaining a better understanding of star- and planet-forming systems using astronomical observations. Sometimes this involves using new instruments or facilities to explore the formation process in a new way. Other times it involves using a new analysis technique or a systematic analysis of large datasets. In particular, I focus on studying the kinematics of regions using different molecular tracers, depending on the question to be addressed."
         },
         {
           "always_expanded": true,
-          "abstract": "Ea esse est consectetur aliqua dolor laboris quis duis et dolore deserunt excepteur excepteur sit aute adipisicing in incididunt sed reprehenderit cillum duis.",
-          "images": [
-            "assets/images/picture_1.jpg"
-          ]
+          "abstract": "Below you will find a sample of the different topics I have worked on.",
+          // "images": [
+          //   "assets/images/B5_transition_to_coherence.jpg"
+          // ]
         }
       ]
     },
     {
-      "title": "Eiusmod ullamco",
-      "sub_title": "Nisi dolore ex",
+      "title": "Transition to coherence in cores",
+      "sub_title": "A sharp transition",
+      "link": "https://ui.adsabs.harvard.edu/abs/2010ApJ...712L.116P/abstract",
       "papers": [
         {
-          "title": "Deserunt veniam ut dolore cupidatat.",
-          "authors": ["Author 1", "Author 2", "Author 3", "Author 4"],
-          "abstract": "Adipisicing do eu in voluptate sed consectetur dolore dolor reprehenderit cupidatat ut dolore pariatur ut proident dolor est ad magna velit laboris sunt eu ut laboris sint dolore incididunt sint sit ut ad amet fugiat pariatur enim sint in velit sed minim occaecat adipisicing nostrud ut irure sunt aliquip incididunt incididunt adipisicing et id in excepteur ex sit labore dolore consectetur ut id nostrud reprehenderit cillum cupidatat commodo deserunt nostrud enim dolor amet eiusmod eiusmod amet tempor commodo exercitation incididunt ut aute nisi fugiat reprehenderit ad veniam elit in do eiusmod nisi exercitation elit ut aliquip deserunt non labore ut esse pariatur ullamco ad velit consequat sint esse pariatur non irure enim anim aliquip et id consectetur excepteur cupidatat deserunt velit ullamco eu ullamco deserunt ex labore cupidatat esse laborum est dolor culpa nostrud proident esse reprehenderit eu sit dolore dolor sint esse in laborum in adipisicing elit dolore labore ea nulla dolor incididunt minim consectetur veniam dolore in ut velit ex quis occaecat laboris in consectetur voluptate proident laborum proident aliqua irure ut eu ea anim anim eu et in minim sint ut cillum dolore in aute pariatur deserunt proident in et elit labore voluptate exercitation ut id occaecat non culpa culpa adipisicing exercitation incididunt occaecat aute id.",
+          "title": "Direct Observation of a Sharp Transition to Coherence in Dense Cores.",
+          "authors": ["Jaime E. Pineda", "et al."],
+          "abstract": "Thanks to the large area and high sensitivity of the observations of the Barnard5 region, we detect (for the first time) of the transition between the coherent core and the dense but more turbulent gas surrounding it. This transition is sharp, increasing the velocity dispersion by a factor of 2 in less than 0.04 pc. The existence of the transition provides a natural definition of dense core: the region with nearly constant subsonic non-thermal velocity dispersion.",
           "more_info": [
             {
-              "text": "Officia tempor:",
+              "text": "Related works:",
               "links": [
                 {
-                  "text": "Ex cupidatat",
-                  "link": "https://www.example.com/link_1"
+                  "text": "Results from GAS",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2017ApJ...843...63F/abstract"
                 },
                 {
-                  "text": "Nisi labore nulla",
-                  "link": "https://www.example.com/link_2"
+                  "text": "An IRDC",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2018A%26A...611L...3S/abstract"
                 },
                 {
-                  "text": "Est ullamco",
-                  "link": "https://www.example.com/link_3"
+                  "text": "Expansion to unbound objects",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2019ApJ...877...93C/abstract"
                 }
               ]
             }
           ],
           "images": [
-            "assets/images/picture_2.jpg"
+            "assets/images/B5_transition_to_coherence.jpg"
           ]
         },
         {
-          "title": "Consequat non ut nisi in tempor reprehenderit.",
-          "link": "http://www.example.com/link_example",
-          "authors": ["Author X", "et al."],
+          "title": "Turbulent fragmentation in Star-Formation.",
+          "link": "https://ui.adsabs.harvard.edu/abs/2015Natur.518..213P/abstract",
+          "authors": ["Jaime E. Pineda", "et al."],
           "abstract": "Lorem ipsum labore in dolor nulla aliquip dolor occaecat incididunt sit proident do consectetur pariatur dolor aliqua ea ullamco culpa labore duis veniam qui officia esse sunt et reprehenderit ut nostrud dolore minim fugiat pariatur consequat cillum incididunt esse pariatur incididunt esse culpa fugiat in aliqua adipisicing do labore cupidatat sit elit consectetur culpa anim in dolore do adipisicing nostrud sint enim id ea esse incididunt voluptate elit mollit pariatur velit anim officia laboris id sunt qui officia et duis amet qui id nulla eiusmod nostrud fugiat velit proident laboris sunt ad in exercitation commodo do reprehenderit cupidatat deserunt laboris ullamco quis officia esse amet consectetur sed pariatur sed veniam culpa quis sunt et in consectetur exercitation ullamco deserunt dolore excepteur ullamco aute est id quis et consequat tempor nulla voluptate in dolor magna id consectetur aliquip fugiat consectetur et excepteur in minim sunt ea fugiat et ullamco labore sed et culpa anim dolore ullamco nisi aliquip magna officia occaecat est exercitation proident in ea aliquip occaecat dolor sed pariatur nisi aliqua ad labore et in laborum quis veniam ullamco esse in laboris qui adipisicing eiusmod sunt incididunt consequat occaecat ut reprehenderit occaecat ea in excepteur consectetur nostrud fugiat minim aute elit sit pariatur officia ut non ut voluptate dolore non irure in irure in ad aliquip in consectetur cillum ex id nisi eu anim tempor excepteur non laborum reprehenderit qui occaecat nostrud adipisicing dolore eu fugiat ut sit mollit.",
+          "more_info": [
+            {
+              "text": "Related works:",
+              "links": [
+                {
+                  "text": "Detection of Filament",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2011ApJ...739L...2P/abstract"
+                },
+                {
+                  "text": "Another multiple system",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2015ApJ...814..114L/abstract"
+                },
+                {
+                  "text": "More filaments",
+                  "link": "https://ui.adsabs.harvard.edu/abs/2018ApJ...861...77M/abstract"
+                }
+              ]
+            }
+          ],
           "images": [
-            "assets/images/picture_3.jpg"
+            "assets/images/B5_filament_fragmentation.jpg"
           ]
         }
       ]
     }
   ],
-  "work": [
-    {
-      "title": "Lorem ipsum ea consectetur",
-      "papers": [
-        {
-          "title": "Pariatur eiusmod irure officia sed veniam nulla voluptate in adipisicing tempor officia ullamco sunt",
-          "link": "https://www.example.com/link_1",
-          "authors": ["xx/yyyy  -  zz/wwww"],
-          "abstract": "Fugiat amet exercitation sed velit ex sed commodo irure cillum cillum aliquip occaecat dolore sint exercitation eu excepteur veniam mollit.",
-          "more_info": [
-            {
-              "text": "Cupidatat adipisicing veniam laborum et."
-            }
-          ]
-        },
-        {
-          "title": "Pariatur eu in pariatur",
-          "link": "https://www.example.com/link_2",
-          "authors": ["xx/yyyy"],
-          "abstract": "Lorem ipsum cillum sed adipisicing dolore officia ea excepteur reprehenderit ullamco proident voluptate nulla laboris elit et proident cupidatat magna laborum anim incididunt in dolore officia pariatur ut magna aute adipisicing aliquip cupidatat minim consequat enim labore irure deserunt pariatur nostrud eu adipisicing esse reprehenderit sit velit elit eu ullamco sed nisi occaecat aliqua non occaecat ut tempor qui in dolor commodo aute consectetur eiusmod ad ea culpa do officia qui deserunt ut elit eu anim ut veniam esse dolore ut et sint ut cillum eu ad irure proident ullamco officia tempor ut ut commodo tempor dolore magna do officia esse ea ex tempor sunt ut exercitation reprehenderit magna ut ullamco dolor ut sit dolore in dolore in fugiat ut mollit duis magna cillum sint consectetur et tempor voluptate sint nisi do mollit cillum nostrud veniam dolor non nostrud tempor ut aliquip sunt irure velit culpa pariatur irure adipisicing.",
-          "more_info": [
-            {
-              "text": "Lorem ipsum exercitation aliquip ea voluptate excepteur pariatur ut id cillum sunt consequat sed ut incididunt ad minim ut veniam ad"
-            }
-          ]
-        },
-        {
-          "title": "Et anim ut cupidatat excepteur et consectetur nulla aute amet exercitation proident voluptate ullamco in",
-          "link": "https://www.example.com/link_3",
-          "authors": ["xxxx", "yyyy", "zzzz"],
-          "abstract": "Dolor ut irure fugiat incididunt nisi reprehenderit aute nisi amet id incididunt ad aliqua cillum ut reprehenderit voluptate fugiat elit labore consequat culpa do tempor velit aliqua incididunt deserunt excepteur anim mollit sint nisi magna sint amet consectetur amet voluptate adipisicing ex anim nostrud consectetur incididunt incididunt aliquip ut adipisicing non commodo in anim pariatur cupidatat magna eiusmod nostrud ullamco excepteur cupidatat et ut eiusmod nulla in nostrud excepteur dolore nostrud dolor excepteur ex aute aliquip laborum amet est mollit voluptate nulla in non amet aliqua dolor dolor nostrud pariatur laborum do ut reprehenderit ut dolore laborum officia culpa sunt laborum exercitation proident labore pariatur dolore aliqua nisi qui adipisicing cillum ea sed fugiat ullamco consectetur ad excepteur in in incididunt ullamco nisi aute nisi fugiat eiusmod aute quis in anim minim laboris amet sunt sit qui laboris aliqua culpa officia ut velit cillum qui elit aliquip exercitation aliquip commodo deserunt dolor duis reprehenderit adipisicing eiusmod duis minim ut proident proident dolor nulla commodo amet commodo nisi aute qui cupidatat amet nisi excepteur incididunt nostrud et minim adipisicing nisi occaecat velit culpa occaecat et proident pariatur aute dolor in elit commodo sint tempor mollit nisi proident dolor proident minim ad tempor dolore dolore do dolore pariatur laborum dolore ut proident laboris cupidatat et in amet eiusmod nisi proident magna labore minim tempor eiusmod elit do",
-          "more_info": [
-            {
-              "text": "Consequat fugiat id",
-              "highlighted": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Esse commodo sint",
-      "papers": [
-        {
-          "title": "Aute dolore in velit do cillum deserunt nostrud dolor cupidatat",
-          "authors": ["Author 1", "Author 2", "Author 3", "Author 4", "Author 5"],
-          "abstract": "Cillum dolor aliquip ut non mollit dolor ut dolor sunt tempor reprehenderit esse amet ea eu minim amet id consequat elit incididunt excepteur sit amet deserunt dolore esse duis ex proident anim laboris tempor id enim mollit laborum sint dolor exercitation sit ea laborum proident amet id nostrud et qui ut consequat consectetur adipisicing ut occaecat irure amet cupidatat cupidatat dolor exercitation esse ea aliqua quis consequat et nisi sunt esse enim consequat tempor sunt ad ea sunt in commodo pariatur aliquip non est reprehenderit pariatur est do reprehenderit in deserunt veniam aliquip voluptate incididunt tempor et in do aliqua eu labore culpa voluptate ut excepteur ut amet amet esse commodo duis exercitation fugiat exercitation reprehenderit deserunt laboris nulla excepteur veniam culpa minim enim consectetur mollit incididunt sunt incididunt cupidatat aliqua quis dolore sed anim fugiat qui anim ut cillum irure aliquip exercitation non dolore cillum in nostrud esse id deserunt occaecat deserunt consequat ad sed culpa dolore in exercitation labore dolore ut aliquip non laborum deserunt culpa fugiat sint in quis et pariatur ullamco do nostrud ea eu tempor consectetur dolor amet aute irure cupidatat anim mollit aute duis aliqua do cillum aliquip in dolore eiusmod ullamco ut ex adipisicing sit sed anim adipisicing enim labore reprehenderit amet commodo amet non elit proident nulla dolore aliqua exercitation ut cupidatat magna sunt ut elit in officia ut laborum aute proident incididunt enim voluptate adipisicing ut sit in sed adipisicing deserunt nulla ut aute labore culpa enim adipisicing exercitation sint tempor eiusmod eu tempor laborum ad"
-        }
-      ]
-    },
-    {
-      "title": "In adipisicing",
-      "papers": [
-        {
-          "title": "Lorem ipsum esse laboris.",
-          "authors": ["Author X", "Author Y", "Author Z"]
-        },
-        {
-          "title": "Lorem ipsum esse laboris.",
-          "authors": ["Author X", "Author Y", "Author Z"],
-          "abstract": "Sint irure aute tempor."
-        }
-      ]
-    }
-  ],
-  "outreach": [
-    {
-      "title": "Commodo dolor",
-      "papers": [
-        {
-          "title": "Mollit ex ex qui cupidatat aliqua exercitation excepteur laborum quis incididunt dolor officia reprehenderit.",
-          "link": "https://www.example.com/link_1",
-          "authors": ["xx/yyyy  -  zz/wwww"],
-          "abstract": "Dolore in dolore ut culpa laboris veniam do veniam laborum in eiusmod sint amet excepteur veniam in veniam ad cupidatat laboris aliquip sed elit commodo qui et proident mollit consectetur dolore ex consequat ad amet aute pariatur ullamco nostrud voluptate est excepteur veniam excepteur exercitation nulla officia duis quis laboris pariatur veniam in consequat deserunt consequat laborum velit eiusmod excepteur cupidatat ex nulla occaecat veniam ad ad adipisicing nulla aliquip laboris veniam labore officia ad aliquip proident mollit aute esse enim eiusmod consectetur laboris sint deserunt dolor excepteur quis do qui sit et sunt laborum sed duis duis deserunt fugiat dolor exercitation sed ex et proident do qui dolore incididunt officia laboris dolor eu voluptate sit sit adipisicing in adipisicing exercitation pariatur ad ex labore elit non et in veniam fugiat eiusmod non reprehenderit tempor dolor do non proident sit sit commodo enim aliqua ut dolor voluptate quis consectetur cillum dolore non consectetur cillum enim mollit reprehenderit cillum excepteur consequat aliqua nulla esse laboris irure dolor mollit enim sit in dolor excepteur tempor commodo dolor.",
-          "more_info": [
-            {
-              "text": "Excepteur in qui nostrud."
-            }
-          ]
-        },
-        {
-          "title": "Occaecat dolore commodo in duis deserunt sint laborum sit dolor pariatur tempor ad do cupidatat amet nulla.",
-          "link": "https://www.example.com/link_2",
-          "authors": ["xx/yyyy"],
-          "abstract": "Lorem ipsum cillum sed adipisicing dolore officia ea excepteur reprehenderit ullamco proident voluptate nulla laboris elit et proident cupidatat magna laborum anim incididunt in dolore officia pariatur ut magna aute adipisicing aliquip cupidatat minim consequat enim labore irure deserunt pariatur nostrud eu adipisicing esse reprehenderit sit velit elit eu ullamco sed nisi occaecat aliqua non occaecat ut tempor qui in dolor commodo aute consectetur eiusmod ad ea culpa do officia qui deserunt ut elit eu anim ut veniam esse dolore ut et sint ut cillum eu ad irure proident ullamco officia tempor ut ut commodo tempor dolore magna do officia esse ea ex tempor sunt ut exercitation reprehenderit magna ut ullamco dolor ut sit dolore in dolore in fugiat ut mollit duis magna cillum sint consectetur et tempor voluptate sint nisi do mollit cillum nostrud veniam dolor non nostrud tempor ut aliquip sunt irure velit culpa pariatur irure adipisicing.",
-          "more_info": [
-            {
-              "text": "Lorem ipsum exercitation aliquip ea voluptate excepteur pariatur ut id cillum sunt consequat sed ut incididunt ad minim ut veniam ad."
-            }
-          ]
-        },
-        {
-          "title": "Et anim ut cupidatat excepteur et consectetur nulla aute amet exercitation proident voluptate ullamco in.",
-          "link": "https://www.example.com/link_3",
-          "authors": ["xxxx", "yyyy", "zzzz"],
-          "abstract": "Dolor ut irure fugiat incididunt nisi reprehenderit aute nisi amet id incididunt ad aliqua cillum ut reprehenderit voluptate fugiat elit labore consequat culpa do tempor velit aliqua incididunt deserunt excepteur anim mollit sint nisi magna sint amet consectetur amet voluptate adipisicing ex anim nostrud consectetur incididunt incididunt aliquip ut adipisicing non commodo in anim pariatur cupidatat magna eiusmod nostrud ullamco excepteur cupidatat et ut eiusmod nulla in nostrud excepteur dolore nostrud dolor excepteur ex aute aliquip laborum amet est mollit voluptate nulla in non amet aliqua dolor dolor nostrud pariatur laborum do ut reprehenderit ut dolore laborum officia culpa sunt laborum exercitation proident labore pariatur dolore aliqua nisi qui adipisicing cillum ea sed fugiat ullamco consectetur ad excepteur in in incididunt ullamco nisi aute nisi fugiat eiusmod aute quis in anim minim laboris amet sunt sit qui laboris aliqua culpa officia ut velit cillum qui elit aliquip exercitation aliquip commodo deserunt dolor duis reprehenderit adipisicing eiusmod duis minim ut proident proident dolor nulla commodo amet commodo nisi aute qui cupidatat amet nisi excepteur incididunt nostrud et minim adipisicing nisi occaecat velit culpa occaecat et proident pariatur aute dolor in elit commodo sint tempor mollit nisi proident dolor proident minim ad tempor dolore dolore do dolore pariatur laborum dolore ut proident laboris cupidatat et in amet eiusmod nisi proident magna labore minim tempor eiusmod elit do.",
-          "more_info": [
-            {
-              "text": "Consequat fugiat id.",
-              "highlighted": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Esse commodo sint.",
-      "papers": [
-        {
-          "title": "Aute dolore in velit do cillum deserunt nostrud dolor cupidatat.",
-          "authors": ["Author 1", "Author 2", "Author 3", "Author 4", "Author 5"],
-          "abstract": "Cillum dolor aliquip ut non mollit dolor ut dolor sunt tempor reprehenderit esse amet ea eu minim amet id consequat elit incididunt excepteur sit amet deserunt dolore esse duis ex proident anim laboris tempor id enim mollit laborum sint dolor exercitation sit ea laborum proident amet id nostrud et qui ut consequat consectetur adipisicing ut occaecat irure amet cupidatat cupidatat dolor exercitation esse ea aliqua quis consequat et nisi sunt esse enim consequat tempor sunt ad ea sunt in commodo pariatur aliquip non est reprehenderit pariatur est do reprehenderit in deserunt veniam aliquip voluptate incididunt tempor et in do aliqua eu labore culpa voluptate ut excepteur ut amet amet esse commodo duis exercitation fugiat exercitation reprehenderit deserunt laboris nulla excepteur veniam culpa minim enim consectetur mollit incididunt sunt incididunt cupidatat aliqua quis dolore sed anim fugiat qui anim ut cillum irure aliquip exercitation non dolore cillum in nostrud esse id deserunt occaecat deserunt consequat ad sed culpa dolore in exercitation labore dolore ut aliquip non laborum deserunt culpa fugiat sint in quis et pariatur ullamco do nostrud ea eu tempor consectetur dolor amet aute irure cupidatat anim mollit aute duis aliqua do cillum aliquip in dolore eiusmod ullamco ut ex adipisicing sit sed anim adipisicing enim labore reprehenderit amet commodo amet non elit proident nulla dolore aliqua exercitation ut cupidatat magna sunt ut elit in officia ut laborum aute proident incididunt enim voluptate adipisicing ut sit in sed adipisicing deserunt nulla ut aute labore culpa enim adipisicing exercitation sint tempor eiusmod eu tempor laborum ad."
-        }
-      ]
-    }
-  ],
-  "teaching": [
-    {
-      "title": "Amet eiusmod",
-      "items": [
-        {
-          "date": "Spring 2019",
-          "text": "Est anim adipisicing labore aute cillum.",
-          "fields": [
-            {
-              "text": "Ea ea nisi est.",
-              "highlighted": true
-            },
-            {
-              "text": "Culpa ut incididunt ullamco consectetur cupidatat aute est qui excepteur reprehenderit ad occaecat dolor ad."
-            }
-          ]
-        },
-        {
-          "date": "Fall 2017",
-          "text": "Elit fugiat enim in veniam voluptate nulla.",
-          "fields": [
-            {
-              "text": "Aliqua ut."
-            }
-          ]
-        },
-        {
-          "date": "Winter 2014",
-          "text": "Excepteur exercitation do cupidatat ea id.",
-          "fields": [
-            {
-              "text": "Lorem ipsum sed deserunt eiusmod."
-            },
-            {
-              "text": "Fugiat proident veniam occaecat velit enim minim ut pariatur.",
-              "highlighted": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Laborum enim aliquip laboris",
-      "items": [
-        {
-          "date": "Since Summer 2017",
-          "text": "Ut elit reprehenderit laboris."
-        },
-        {
-          "date": "Since Summer 2018",
-          "text": "Irure laborum."
-        },
-        {
-          "date": "Since Summer 2019",
-          "text": "Anim ad."
-        }
-      ]
-    }
-  ],
+  // "work": [
+  //   {
+  //     "title": "Lorem ipsum ea consectetur",
+  //     "papers": [
+  //       {
+  //         "title": "Pariatur eiusmod irure officia sed veniam nulla voluptate in adipisicing tempor officia ullamco sunt",
+  //         "link": "https://www.example.com/link_1",
+  //         "authors": ["xx/yyyy  -  zz/wwww"],
+  //         "abstract": "Fugiat amet exercitation sed velit ex sed commodo irure cillum cillum aliquip occaecat dolore sint exercitation eu excepteur veniam mollit.",
+  //         "more_info": [
+  //           {
+  //             "text": "Cupidatat adipisicing veniam laborum et."
+  //           }
+  //         ]
+  //       },
+  //       {
+  //         "title": "Pariatur eu in pariatur",
+  //         "link": "https://www.example.com/link_2",
+  //         "authors": ["xx/yyyy"],
+  //         "abstract": "Lorem ipsum cillum sed adipisicing dolore officia ea excepteur reprehenderit ullamco proident voluptate nulla laboris elit et proident cupidatat magna laborum anim incididunt in dolore officia pariatur ut magna aute adipisicing aliquip cupidatat minim consequat enim labore irure deserunt pariatur nostrud eu adipisicing esse reprehenderit sit velit elit eu ullamco sed nisi occaecat aliqua non occaecat ut tempor qui in dolor commodo aute consectetur eiusmod ad ea culpa do officia qui deserunt ut elit eu anim ut veniam esse dolore ut et sint ut cillum eu ad irure proident ullamco officia tempor ut ut commodo tempor dolore magna do officia esse ea ex tempor sunt ut exercitation reprehenderit magna ut ullamco dolor ut sit dolore in dolore in fugiat ut mollit duis magna cillum sint consectetur et tempor voluptate sint nisi do mollit cillum nostrud veniam dolor non nostrud tempor ut aliquip sunt irure velit culpa pariatur irure adipisicing.",
+  //         "more_info": [
+  //           {
+  //             "text": "Lorem ipsum exercitation aliquip ea voluptate excepteur pariatur ut id cillum sunt consequat sed ut incididunt ad minim ut veniam ad"
+  //           }
+  //         ]
+  //       },
+  //       {
+  //         "title": "Et anim ut cupidatat excepteur et consectetur nulla aute amet exercitation proident voluptate ullamco in",
+  //         "link": "https://www.example.com/link_3",
+  //         "authors": ["xxxx", "yyyy", "zzzz"],
+  //         "abstract": "Dolor ut irure fugiat incididunt nisi reprehenderit aute nisi amet id incididunt ad aliqua cillum ut reprehenderit voluptate fugiat elit labore consequat culpa do tempor velit aliqua incididunt deserunt excepteur anim mollit sint nisi magna sint amet consectetur amet voluptate adipisicing ex anim nostrud consectetur incididunt incididunt aliquip ut adipisicing non commodo in anim pariatur cupidatat magna eiusmod nostrud ullamco excepteur cupidatat et ut eiusmod nulla in nostrud excepteur dolore nostrud dolor excepteur ex aute aliquip laborum amet est mollit voluptate nulla in non amet aliqua dolor dolor nostrud pariatur laborum do ut reprehenderit ut dolore laborum officia culpa sunt laborum exercitation proident labore pariatur dolore aliqua nisi qui adipisicing cillum ea sed fugiat ullamco consectetur ad excepteur in in incididunt ullamco nisi aute nisi fugiat eiusmod aute quis in anim minim laboris amet sunt sit qui laboris aliqua culpa officia ut velit cillum qui elit aliquip exercitation aliquip commodo deserunt dolor duis reprehenderit adipisicing eiusmod duis minim ut proident proident dolor nulla commodo amet commodo nisi aute qui cupidatat amet nisi excepteur incididunt nostrud et minim adipisicing nisi occaecat velit culpa occaecat et proident pariatur aute dolor in elit commodo sint tempor mollit nisi proident dolor proident minim ad tempor dolore dolore do dolore pariatur laborum dolore ut proident laboris cupidatat et in amet eiusmod nisi proident magna labore minim tempor eiusmod elit do",
+  //         "more_info": [
+  //           {
+  //             "text": "Consequat fugiat id",
+  //             "highlighted": true
+  //           }
+  //         ]
+  //       }
+  //     ]
+  //   },
+  //   {
+  //     "title": "Esse commodo sint",
+  //     "papers": [
+  //       {
+  //         "title": "Aute dolore in velit do cillum deserunt nostrud dolor cupidatat",
+  //         "authors": ["Author 1", "Author 2", "Author 3", "Author 4", "Author 5"],
+  //         "abstract": "Cillum dolor aliquip ut non mollit dolor ut dolor sunt tempor reprehenderit esse amet ea eu minim amet id consequat elit incididunt excepteur sit amet deserunt dolore esse duis ex proident anim laboris tempor id enim mollit laborum sint dolor exercitation sit ea laborum proident amet id nostrud et qui ut consequat consectetur adipisicing ut occaecat irure amet cupidatat cupidatat dolor exercitation esse ea aliqua quis consequat et nisi sunt esse enim consequat tempor sunt ad ea sunt in commodo pariatur aliquip non est reprehenderit pariatur est do reprehenderit in deserunt veniam aliquip voluptate incididunt tempor et in do aliqua eu labore culpa voluptate ut excepteur ut amet amet esse commodo duis exercitation fugiat exercitation reprehenderit deserunt laboris nulla excepteur veniam culpa minim enim consectetur mollit incididunt sunt incididunt cupidatat aliqua quis dolore sed anim fugiat qui anim ut cillum irure aliquip exercitation non dolore cillum in nostrud esse id deserunt occaecat deserunt consequat ad sed culpa dolore in exercitation labore dolore ut aliquip non laborum deserunt culpa fugiat sint in quis et pariatur ullamco do nostrud ea eu tempor consectetur dolor amet aute irure cupidatat anim mollit aute duis aliqua do cillum aliquip in dolore eiusmod ullamco ut ex adipisicing sit sed anim adipisicing enim labore reprehenderit amet commodo amet non elit proident nulla dolore aliqua exercitation ut cupidatat magna sunt ut elit in officia ut laborum aute proident incididunt enim voluptate adipisicing ut sit in sed adipisicing deserunt nulla ut aute labore culpa enim adipisicing exercitation sint tempor eiusmod eu tempor laborum ad"
+  //       }
+  //     ]
+  //   },
+  //   {
+  //     "title": "In adipisicing",
+  //     "papers": [
+  //       {
+  //         "title": "Lorem ipsum esse laboris.",
+  //         "authors": ["Author X", "Author Y", "Author Z"]
+  //       },
+  //       {
+  //         "title": "Lorem ipsum esse laboris.",
+  //         "authors": ["Author X", "Author Y", "Author Z"],
+  //         "abstract": "Sint irure aute tempor."
+  //       }
+  //     ]
+  //   }
+  // ],
   "cv": {
     "link": "http://www.example.com/cv.pdf",
     "sections": [
       {
-        "title": "Et est esse non",
-        "two_columns": true,
+        "title": "Employement",
         "items": [
           {
-            "date": "20XX-20XY",
-            "text": "Eiusmod consequat ut minim incididunt.",
+            "date": "2014-",
+            "text": "Max-Planck-Institut für extraterrestrische Physik (MPE).",
             "fields": [
               {
-                "text": "Officia adipisicing."
+                "text": "The Center for Astrochemical Studies (Prof. P. Caselli).",
+                "type": "link",
+                "link": "http://www.mpe.mpg.de/CAS"
               },
               {
-                "text": "Aute cillum."
+                "text": "Post-doc."
               }
             ]
           },
           {
-            "date": "20XX",
-            "text": "Sed in cupidatat eu qui.",
+            "date": "2013-2014",
+            "text": "Swiss Federal Institute of Technology in Zurich (ETH Zurich).",
             "fields": [
               {
-                "text": "Est cupidatat cupidatat veniam.",
-                "type": "link",
-                "link": "http://www.example.com/additional_text_1_link"
+                "text": "Star and Planet Formation Group (Prof. M.R. Meyer)."
               },
               {
-                "text": "Officia adipisicing."
+                "text": "Post-doc."
               }
             ]
           },
           {
-            "date": "20XX",
-            "text": "Dolore nisi do officia.",
+            "date": "2010-2013",
+            "text": "University of Manchester.",
             "fields": [
               {
-                "text": "Lorem ipsum voluptate dolor ut officia."
+                "text": "UK ALMA Regional Centre.",
+                "type": "link",
+                "link": "http://www.alma.ac.uk"
               },
               {
-                "text": "Qui aliqua cupidatat et.",
-                "type": "link",
-                "link": "http://www.example.com/additional_text_1_link"
+                "text": "COFUND ESO ALMA Fellow."
               }
             ]
           },
           {
-            "date": "20XX",
-            "text": "Ad incididunt velit laborum ut.",
+            "date": "2010",
+            "text": "Harvard University.",
             "fields": [
               {
-                "text": "Qui occaecat ex."
+                "text": "Center for Astrophysics | Harvard & Smithsonian (CfA).",
+                "type": "link",
+                "link": "https://www.cfa.harvard.edu"
               },
               {
-                "text": "Est laboris aute esse.",
-                "type": "link",
-                "link": "http://www.example.com/additional_text_1_link"
+                "text": "Post-doc."
               }
             ]
           }
         ]
       },
       {
-        "title": "Reprehenderit qui cupidatat",
+        "title": "Education",
         "items": [
           {
-            "date": "20XX-20XY",
-            "text": "Pariatur reprehenderit quis in eiusmod.",
+            "date": "2004-2010",
+            "text": "PhD in Astronomy, Harvard University.",
             "fields": [
               {
-                "text": "Irure fugiat excepteur qui."
+                "text": "The Origin and Inner Workings of Star-Forming Cores.",
+                "highlighted": true
               },
               {
-                "text": "Duis cillum eu consequat.",
-                "highlighted": true
+                "text": "Advisor: Prof. Alyssa A. Goodman"
               }
             ]
           },
           {
-            "date": "20XX",
-            "text": "Lorem ipsum mollit incididunt excepteur ad.",
+            "date": "2005",
+            "text": "M.S. in Astronomy, Universidad de Chile.",
             "fields": [
               {
-                "text": "In amet dolor ex."
+                "text": "Unveiling the physical parameters of massive star forming regions.",
+                "highlighted": true
               },
               {
-                "text": "Magna quis elit.",
-                "type": "link",
-                "link": "http://www.example.com/additional_text_1_link"
+                "text": "Advisor: Prof. Guido Garay"
               }
             ]
           }
