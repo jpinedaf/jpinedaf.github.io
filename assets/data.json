@@ -55,11 +55,21 @@
   },
   "research": [
     {
+      "title": "ProPStar",
+      "sub_title": "Probing the Physics of Star-Formation",
+      "papers": [
+        {
+          "always_expanded": true,
+          "abstract": "I am leading a survey to map nearby star-forming regions with high-angular resolution. In the first stage we have mapped the South-East region of NGC 1333 and also Barnard 5. These maps combine NOEMA and 30-m observations to recover all scales in the 3-mm band. This enable us to the study of the environment on the star- and disk formation process. The first results are coming quickly! Send me an email if you are interested."
+        }
+      ]
+    },
+    {
       "title": "Assembling the Star- and Planet-Formation Puzzle",
       "papers": [
         {
           "always_expanded": true,
-          "abstract": "I strive for obtaining a better understanding of star- and planet-forming systems using astronomical observations. Sometimes this involves using new instruments or facilities to explore the formation process in a new way. Other times it involves using a new analysis technique or a systematic analysis of large datasets. In particular, I focus on studying the kinematics of regions using different molecular tracers, depending on the question to be addressed."
+          "abstract": "I strive for obtaining a better understanding of star- and planet-forming systems using astronomical observations. Sometimes this involves using new instruments or facilities to explore the formation process in a new way. Other times it involves using a new analysis technique or a systematic analysis of large datasets. In particular, I focus on studying the kinematics of regions using different molecular tracers, depending on the question to be addressed. "
         }
       ]
     },
@@ -74,7 +84,7 @@
             "Jaime E. Pineda",
             "et al."
           ],
-          "abstract": "Thanks to the large area and high sensitivity of the observations of the Barnard5 region, we detect (for the first time) of the transition between the coherent core and the dense but more turbulent gas surrounding it. This transition is sharp, increasing the velocity dispersion by a factor of 2 in less than 0.04 pc. The existence of the transition provides a natural definition of dense core: the region with nearly constant subsonic non-thermal velocity dispersion.",
+          "abstract": "Thanks to the large area and high sensitivity of the observations of the Barnard 5 region, we detected (for the first time) of the transition between the coherent core and the dense but more turbulent gas surrounding it. This transition is sharp, increasing the velocity dispersion by a factor of 2 in less than 0.04 pc. The existence of the transition provides a natural definition of dense core: the region with nearly constant subsonic non-thermal velocity dispersion.",
           "more_info": [
             {
               "text": "Related works:",
@@ -130,7 +140,7 @@
     }
   ],
   "cv": {
-    "link": "http://www.example.com/cv.pdf",
+    "link": "assets/CV_Jaime_a4_modern2023Jan26.pdf",
     "sections": [
       {
         "title": "Employement",
