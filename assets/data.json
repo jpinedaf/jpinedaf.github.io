@@ -177,7 +177,7 @@
     },
     {
       "title": "Recent Publications",
-      "sub_title": "Most recent 20 papers from ADS library",
+      "sub_title": "Most recent papers from ADS library",
       "papers": [
         {
           "title": "FAUST: XXXI. Grain properties and variability of three sources in GSS 30",
@@ -187,7 +187,7 @@
           "link": "https://ui.adsabs.harvard.edu/abs/2026A&A...711A.117Y"
         },
         {
-          "title": "Probing the ion-neutral drift velocity toward the L1544 prestellar core: Detection of ambipolar diffusion using N$_2$D$^+$ and para-NH$_2$D",
+          "title": "Probing the ion-neutral drift velocity toward the L1544 prestellar core: Detection of ambipolar diffusion using N₂D⁺ and para-NH₂D",
           "authors": [
             "Arzoumanian, Doris et al. (2026)"
           ],
@@ -292,13 +292,6 @@
           "link": "https://ui.adsabs.harvard.edu/abs/2026ApJ...997..296P"
         },
         {
-          "title": "PRODIGE - envelope to disk with NOEMA: VII. (Complex) organic molecules in the NGC1333 IRAS4B1 outflow: A new laboratory for shock chemistry",
-          "authors": [
-            "Busch, Laura A. et al. (2026)"
-          ],
-          "link": "https://ui.adsabs.harvard.edu/abs/2026arXiv260217177B"
-        },
-        {
           "title": "The onset of protostellar disk substructures and planet formation",
           "authors": [
             "Hsieh, Cheng-Han et al. (2026)"
@@ -306,7 +299,7 @@
           "link": "https://ui.adsabs.harvard.edu/abs/2026AAS...24734802H"
         },
         {
-          "title": "ALMA Central molecular zone Exploration Survey (ACES) III: Molecular line data reduction and HNCO and HCO$^+$ data",
+          "title": "ALMA Central molecular zone Exploration Survey (ACES) III: Molecular line data reduction and HNCO and HCO⁺ data",
           "authors": [
             "Walker, Daniel L. et al. (2026)"
           ],
