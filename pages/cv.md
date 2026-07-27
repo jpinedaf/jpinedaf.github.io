@@ -5,7 +5,7 @@ subheadline: "Employment and education"
 teaser: "Summary CV and downloadable PDF."
 permalink: "/cv/"
 header:
-    image_fullwidth: "header_unsplash_9.jpg"
+    image_fullwidth: "countries_mix.jpg"
 ---
 
 [Download full CV (PDF)](/assets/CV_Jaime_a4_modern2023Jan26.pdf)

@@ -6,21 +6,18 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: photo_mobile.jpg
+  image_fullwidth: solid_black.png
 widget1:
   title: "About"
   url: '/info/'
-  image: photo.jpg
   text: 'Learn more about my work as a Staff Astronomer at the Max Planck Institute for Extraterrestrial Physics and my research interests in star formation and gas kinematics.'
 widget2:
   title: "Research"
   url: '/research/'
   text: 'Explore current projects and selected publications on molecular clouds, star and disk formation, and astrochemical approaches to gas kinematics.'
-  image: B5_transition_to_coherence.jpg
 widget3:
   title: "CV"
   url: '/cv/'
-  image: B5_filament_fragmentation.jpg
   text: 'Find a summary of appointments and education, and download the full CV.'
 #
 # Use the call for action to show a button on the frontpage
@@ -42,4 +39,5 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+show_blog_area: false
 ---

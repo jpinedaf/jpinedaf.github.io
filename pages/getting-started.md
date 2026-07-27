@@ -1,5 +1,6 @@
 ---
 layout              : page
+published           : false
 show_meta           : false
 title               : "Getting Started in 10 Steps"
 subheadline         : "A Step-by-Step Guide"
