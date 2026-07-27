@@ -126,13 +126,31 @@
         items.forEach(function (item) {
           var listItem = document.createElement('li');
           var link = document.createElement('a');
-          link.href = '#' + item.id;
+          link.href = '/research#' + item.id;
           link.textContent = item.title;
+          link.addEventListener('click', function (event) {
+            var target = document.getElementById(item.id);
+            if (!target) return;
+            event.preventDefault();
+            target.scrollIntoView({ block: 'start', behavior: 'smooth' });
+            if (window.history && typeof window.history.pushState === 'function') {
+              window.history.pushState(null, '', '#'+item.id);
+            } else {
+              window.location.hash = item.id;
+            }
+          });
           listItem.appendChild(link);
           list.appendChild(listItem);
         });
 
         nav.appendChild(list);
+
+        if (window.location.hash) {
+          var target = document.getElementById(window.location.hash.slice(1));
+          if (target) {
+            target.scrollIntoView({ block: 'start' });
+          }
+        }
       }
 
       function scheduleRender() {
