@@ -1,9 +1,15 @@
 ---
 layout              : page
 title               : "Contact"
-meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
+meta_title          : "Contact Jaime Pineda"
+subheadline         : "Get in touch"
+teaser              : "Contact details and email."
 permalink           : "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+Max-Planck-Institut fur extraterrestrische Physik  
+Giessenbachstrasse 1  
+85748 Garching  
+Germany
+
+Email: [jpineda@mpe.mpg.de](mailto:jpineda@mpe.mpg.de)  
+Phone: +49 (0)89 30000-3610

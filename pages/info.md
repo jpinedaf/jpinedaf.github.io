@@ -1,61 +1,37 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "Astrophysicist"
+teaser: "Staff Astronomer at the Center for Astrochemical Studies, Max Planck Institute for Extraterrestrial Physics."
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
+![Jaime Pineda](/images/photo.jpg)
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+I am a Staff Astronomer at the Center for Astrochemical Studies of the Max Planck Institute for Extraterrestrial Physics. I am interested in the star formation process, from large scales in molecular clouds down to protoplanetary disks. I focus on gas kinematics to understand the physical processes behind star formation and use astrochemistry as a guide for planning and analyzing observations.
 
+Previously, I worked at the UK ALMA Regional Center in Manchester with an ESO ALMA COFUND fellowship and later at the Institute for Astronomy of ETH Zurich. Before moving to the UK, I completed a PhD in Astronomy at Harvard University and earlier a BSc and MSc in Astronomy at Universidad de Chile.
 
-## Features
+## Interests
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+- Star formation
+- Gas kinematics
+- Interferometry and image analysis
+- Astrostatistics
+- Astrochemistry
 
+## Contact
 
+- Max-Planck-Institut fur extraterrestrische Physik
+- Giessenbachstrasse 1
+- 85748 Garching
+- Germany
+- Email: [jpineda@mpe.mpg.de](mailto:jpineda@mpe.mpg.de)
+- Phone: +49 (0)89 30000-3610
 
-## I got inspired by...
+## Links
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+- [GBT Ammonia Survey](https://greenbankobservatory.org/science/gbt-surveys/gas-survey-2/)
+- [Center for Astrochemical Studies](http://www.mpe.mpg.de/CAS)
+- [GitHub Profile](https://www.github.com/jpinedaf)

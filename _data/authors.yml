@@ -11,4 +11,10 @@ phlow: # replace this with your info
   uri: http://phlow.de/
   email:
   twitter: "@phlow"
+
+jpineda:
+  name: "Jaime E. Pineda"
+  siterole: "astrophysicist"
+  uri: https://www.github.com/jpinedaf
+  email: "jpineda@mpe.mpg.de"
 # you can add more authors here

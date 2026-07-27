@@ -2,6 +2,18 @@
   url: "/"
   side: left
 
+- title: About
+  url: "/info/"
+  side: left
+
+- title: Research
+  url: "/research/"
+  side: left
+
+- title: CV
+  url: "/cv/"
+  side: left
+
 - title: Getting Started
   url: "/getting-started/"
   side: left
