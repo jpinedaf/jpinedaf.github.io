@@ -1,0 +1,431 @@
+{
+  "color": "#34618e",
+  "google_analytics_ID": "UA-54037920-13",
+  "sub_title": "Astrophysicist.",
+  "tabs": [
+    "home",
+    "research",
+    "cv"
+  ],
+  "home": {
+    "description": "I'm a Staff Astronomer at the The Center for Astrochemical Studies of the Max Planck Institute for Extraterrestrial Physics. I am interested in the star formation process, starting from large scales (molecular clouds) down to the protoplanetary disks. In particular, I focus on using the gas kinematics to understand the physical processes behind star formation. For this I also use astrochemistry as a tool to guide the planification and analysis of observations. Previously I was at the UK ALMA Regional Center in Manchester (UK), with an ESO ALMA COFUND fellowship and later at Institute for Astronomy of the ETH Zürich. Before moving to the UK I obtained a PhD in Astronomy from Harvard University, and before that my BSc and MSc in Astronomy from Universidad de Chile. As a PhD student, I worked as part of the COMPLETE survey with my advisor Prof. Alyssa Goodman.",
+    "highlight": "Interests: Star formation; gas kinematics; interferometry and image analysis; astrostatistics; astrochemistry.",
+    "contact": [
+      {
+        "text": "Max-Planck-Institut für extraterrestrische Physik"
+      },
+      {
+        "text": "Giessenbachstrasse 1"
+      },
+      {
+        "text": "85748 Garching"
+      },
+      {
+        "text": "Germany"
+      },
+      {
+        "type": "email",
+        "text": "jpineda@mpe.mpg.de"
+      },
+      {
+        "type": "phone",
+        "text": "+49 (0)89 30000-3610"
+      }
+    ],
+    "fields": [
+      "Star Formation",
+      "Gas kinematics",
+      "Molecular Clouds",
+      "Disk Formation"
+    ],
+    "links": [
+      {
+        "text": "GBT Ammonia Survey",
+        "link": "https://greenbankobservatory.org/science/gbt-surveys/gas-survey-2/"
+      },
+      {
+        "text": "CAS",
+        "link": "http://www.mpe.mpg.de/CAS"
+      },
+      {
+        "text": "GitHub",
+        "link": "https://www.github.com/jpinedaf"
+      }
+    ]
+  },
+  "research": [
+    {
+      "title": "Dense Cores",
+      "sub_title": "Structure, coherence, and fragmentation in star-forming cores",
+      "papers": [
+        {
+          "always_expanded": true,
+          "abstract": "A major part of my work focuses on dense core structure and kinematics, including the transition to coherence and how turbulence regulates core fragmentation. These studies connect core physics to the earliest phases of star and multiple-system formation."
+        },
+        {
+          "title": "Direct Observation of a Sharp Transition to Coherence in Dense Cores",
+          "authors": [
+            "Jaime E. Pineda",
+            "et al."
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2010ApJ...712L.116P/abstract",
+          "images": [
+            "assets/images/B5_transition_to_coherence.jpg"
+          ]
+        },
+        {
+          "title": "Turbulent fragmentation in Star Formation",
+          "authors": [
+            "Jaime E. Pineda",
+            "et al."
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2015Natur.518..213P/abstract",
+          "images": [
+            "assets/images/B5_filament_fragmentation.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Streamers",
+      "sub_title": "Accretion flows and streamer-fed protostellar growth",
+      "papers": [
+        {
+          "always_expanded": true,
+          "abstract": "Recent work is focused on streamers and their role in transporting mass toward embedded protostars and young disks, combining gas kinematics with chemistry to trace infall and shocks."
+        },
+        {
+          "title": "Magnetogravitationally regulated streamer accretion onto a class 0 protostellar system",
+          "authors": [
+            "Huang, Bo et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026SciA...12c0413H"
+        },
+        {
+          "title": "PRODIGE - Envelope to disk with NOEMA: VIII. Sulfur oxides trace a shock caused by a streamer in the inner envelope of a protostar",
+          "authors": [
+            "Valdivia-Mena, Maria Teresa et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026A&A...709A..53V"
+        }
+      ]
+    },
+    {
+      "title": "Disk properties around young stars",
+      "sub_title": "Disk structure, chemistry, and early planet-forming environments",
+      "papers": [
+        {
+          "always_expanded": true,
+          "abstract": "I study disk properties around young stars, including disk substructure, chemistry, and the envelope-to-disk connection. This includes collaborative work with Hsieh, Maureira, and Segura-Cox."
+        },
+        {
+          "title": "Preferential alignment of Class 0, Class I protostellar disks in multiple systems across nine nearby molecular clouds",
+          "authors": [
+            "Hsieh, Cheng-Han et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026arXiv260714294H"
+        },
+        {
+          "title": "The onset of protostellar disk substructures and planet formation",
+          "authors": [
+            "Hsieh, Cheng-Han et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026AAS...24734802H"
+        }
+      ]
+    },
+    {
+      "title": "Large Programs (co-PI)",
+      "papers": [
+        {
+          "title": "GAS",
+          "always_expanded": true,
+          "abstract": "Green Bank Ammonia Survey. Co-PIs: Friesen and Pineda.",
+          "more_info": [
+            {
+              "text": "Program links:",
+              "links": [
+                {
+                  "text": "GAS survey page",
+                  "link": "https://greenbankobservatory.org/science/gbt-surveys/gas/"
+                },
+                {
+                  "text": "GAS GitHub repository",
+                  "link": "https://github.com/GBTAmmoniaSurvey"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ProPStarK",
+          "always_expanded": true,
+          "abstract": "Co-PIs: Svoboda and Pineda.",
+          "more_info": [
+            {
+              "text": "Program link:",
+              "links": [
+                {
+                  "text": "ProPStarK website",
+                  "link": "https://propstark.github.io/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Recent Publications",
+      "sub_title": "Most recent papers from ADS library",
+      "papers": [
+        {
+          "title": "FAUST: XXXI. Grain properties and variability of three sources in GSS 30",
+          "authors": [
+            "Yang, Q. et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026A&A...711A.117Y"
+        },
+        {
+          "title": "Probing the ion-neutral drift velocity toward the L1544 prestellar core: Detection of ambipolar diffusion using N₂D⁺ and para-NH₂D",
+          "authors": [
+            "Arzoumanian, Doris et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026A&A...711A.105A"
+        },
+        {
+          "title": "A JWST, ALMA and VLA survey of the Ophiuchus-A star-forming region: Unveiling hidden dust mass and connecting infrared outflows to their radio origins",
+          "authors": [
+            "Radley, Isaac C. et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026arXiv260715468R"
+        },
+        {
+          "title": "Preferential alignment of Class 0, Class I protostellar disks in multiple systems across nine nearby molecular clouds",
+          "authors": [
+            "Hsieh, Cheng-Han et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026arXiv260714294H"
+        },
+        {
+          "title": "Low cosmic-ray ionisation at parsec scales in G035.39-00.33",
+          "authors": [
+            "Socci, Andrea et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026arXiv260628765S"
+        },
+        {
+          "title": "Substructures in Planet-Forming Disks with the SKAO",
+          "authors": [
+            "Wu, Yinhao et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026arXiv260625794W"
+        },
+        {
+          "title": "Jets and Outflows in Young Stellar Objects with the SKAO",
+          "authors": [
+            "Sabatini, Giovanni et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026arXiv260626044S"
+        },
+        {
+          "title": "Chemical Complexity in the Early Stages of Star Formation in the SKAO Era",
+          "authors": [
+            "Bianchi, Eleonora et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026arXiv260627184B"
+        },
+        {
+          "title": "Unveiling Complex Chemistry in Planet-forming Disks with the SKAO",
+          "authors": [
+            "Podio, Linda et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026arXiv260627289P"
+        },
+        {
+          "title": "Magnetogravitationally regulated streamer accretion onto a class 0 protostellar system",
+          "authors": [
+            "Huang, Bo et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026SciA...12c0413H"
+        },
+        {
+          "title": "PRODIGE - Envelope to disk with NOEMA: VIII. Sulfur oxides trace a shock caused by a streamer in the inner envelope of a protostar",
+          "authors": [
+            "Valdivia-Mena, Maria Teresa et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026A&A...709A..53V"
+        },
+        {
+          "title": "PRODIGE - Envelope to disk with NOEMA: VII. (Complex) organic molecules in the NGC1333 IRAS 4B1 outflow: A new laboratory for shock chemistry",
+          "authors": [
+            "Busch, L. A. et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026A&A...708A.315B"
+        },
+        {
+          "title": "Projection effects in star-forming regions: I. Nearest-neighbour statistics and observational biases",
+          "authors": [
+            "Barnes, A. T. et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026A&A...707A.145B"
+        },
+        {
+          "title": "ALMA Central molecular zone Exploration Survey (ACES) V: CS(2-1), SO(2_3-1_2), CH3CHO(5_1,4-4_1,3), HC3N(11-10), and H40a lines data",
+          "authors": [
+            "Hsieh, Pei-Ying et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026arXiv260300863H"
+        },
+        {
+          "title": "A differentiable and optimizable 3D model for interpretation of observed spectral data cubes",
+          "authors": [
+            "Grassi, T. et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026arXiv260306791G"
+        },
+        {
+          "title": "Deuterium Fractionation and CO Depletion in Barnard 5",
+          "authors": [
+            "Petrashkevich, Igor et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026ApJ...997..296P"
+        },
+        {
+          "title": "The onset of protostellar disk substructures and planet formation",
+          "authors": [
+            "Hsieh, Cheng-Han et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026AAS...24734802H"
+        },
+        {
+          "title": "ALMA Central molecular zone Exploration Survey (ACES) III: Molecular line data reduction and HNCO and HCO⁺ data",
+          "authors": [
+            "Walker, Daniel L. et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026arXiv260220276W"
+        },
+        {
+          "title": "ALMA Central Molecular Zone Exploration Survey (ACES)-IV. Data of the two intermediate-width spectral windows",
+          "authors": [
+            "Lu, Xing et al. (2026)"
+          ],
+          "link": "https://ui.adsabs.harvard.edu/abs/2026arXiv260220445L"
+        }
+      ]
+    }
+  ],
+  "cv": {
+    "link": "assets/CV_Jaime_a4_modern2023Jan26.pdf",
+    "sections": [
+      {
+        "title": "Employement",
+        "items": [
+          {
+            "date": "2019-",
+            "text": "Max-Planck-Institut für extraterrestrische Physik (MPE).",
+            "fields": [
+              {
+                "text": "The Center for Astrochemical Studies (Prof. P. Caselli).",
+                "type": "link",
+                "link": "http://www.mpe.mpg.de/CAS"
+              },
+              {
+                "text": "Staff Astronomer."
+              }
+            ]
+          },
+          {
+            "date": "2014-2019",
+            "text": "Max-Planck-Institut für extraterrestrische Physik (MPE).",
+            "fields": [
+              {
+                "text": "The Center for Astrochemical Studies (Prof. P. Caselli).",
+                "type": "link",
+                "link": "http://www.mpe.mpg.de/CAS"
+              },
+              {
+                "text": "Post-doc."
+              }
+            ]
+          },
+          {
+            "date": "2013-2014",
+            "text": "Swiss Federal Institute of Technology in Zurich (ETH Zurich).",
+            "fields": [
+              {
+                "text": "Star and Planet Formation Group (Prof. M.R. Meyer)."
+              },
+              {
+                "text": "Post-doc."
+              }
+            ]
+          },
+          {
+            "date": "2010-2013",
+            "text": "University of Manchester.",
+            "fields": [
+              {
+                "text": "UK ALMA Regional Centre.",
+                "type": "link",
+                "link": "http://www.alma.ac.uk"
+              },
+              {
+                "text": "COFUND ESO ALMA Fellow."
+              }
+            ]
+          },
+          {
+            "date": "2010",
+            "text": "Harvard University.",
+            "fields": [
+              {
+                "text": "Center for Astrophysics | Harvard & Smithsonian (CfA).",
+                "type": "link",
+                "link": "https://www.cfa.harvard.edu"
+              },
+              {
+                "text": "Post-doc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Education",
+        "items": [
+          {
+            "date": "2004-2010",
+            "text": "PhD in Astronomy, Harvard University.",
+            "fields": [
+              {
+                "text": "The Origin and Inner Workings of Star-Forming Cores.",
+                "highlighted": true
+              },
+              {
+                "text": "Advisor: Prof. Alyssa A. Goodman"
+              }
+            ]
+          },
+          {
+            "date": "2005",
+            "text": "M.S. in Astronomy, Universidad de Chile.",
+            "fields": [
+              {
+                "text": "Unveiling the physical parameters of massive star forming regions.",
+                "highlighted": true
+              },
+              {
+                "text": "Advisor: Prof. Guido Garay"
+              }
+            ]
+          },
+          {
+            "date": "2003",
+            "text": "B.S. in Astronomy, Universidad de Chile."
+          }
+        ]
+      }
+    ]
+  }
+}
