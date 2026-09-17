@@ -5,8 +5,7 @@ This site is built with [Jekyll](https://jekyllrb.com/) using the
 `remote_theme`), as adapted in
 [qizhang94/qizhang94.github.io](https://github.com/qizhang94/qizhang94.github.io).
 
-Content (bio, research, experience, and publications) lives entirely in
-[`index.md`](index.md), with the publication list sourced from
+Content is split across the Home, Research, CV, Contact, and Publications pages, with the publication list sourced from
 [`_data/publications.yml`](_data/publications.yml).
 
 ## Building locally
