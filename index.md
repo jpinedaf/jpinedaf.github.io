@@ -53,7 +53,7 @@ wide: true
       <li><a href="{{ p.pdf }}" rel="noopener">{{ p.title }}</a><div class="venue">{{ p.venue }}</div></li>
       {% endif %}{% endfor %}
     </ul>
-    <p class="more"><a href="{{ '/publications/' | relative_url }}">All publications &rarr;</a> &middot; <a href="{{ site.ads_link }}" rel="noopener">ADS library</a></p>
+    <p class="more">For a full publication list see <a href="{{ site.ads_link }}" rel="noopener">my ADS library</a> or the <a href="{{ '/publications/' | relative_url }}">publications page</a>.</p>
   </div>
 </section>
 
