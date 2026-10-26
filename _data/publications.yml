@@ -26,3 +26,33 @@ main:
 
   - title: "Direct Observation of a Sharp Transition to Coherence in Dense Cores"
     pdf: https://ui.adsabs.harvard.edu/abs/2010ApJ...712L.116P/abstract
+
+  - title: "First Results from ALPPS: A Sub-Alfvénic Streamer in SVS 13A"
+    pdf: https://ui.adsabs.harvard.edu/abs/2025ApJ...992L..31C/abstract
+    venue: The Astrophysical Journal Letters, 2025
+    selected: true
+
+  - title: "Probing the physics of star formation (ProPStar). II. The first systematic search for streamers toward protostars"
+    pdf: https://ui.adsabs.harvard.edu/abs/2024A%26A...687A..71V/abstract
+    venue: Astronomy &amp; Astrophysics, 2024
+    selected: true
+
+  - title: "A protostellar system fed by a streamer of 10,500 au length"
+    pdf: https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1158P/abstract
+    venue: Nature Astronomy, 2020
+    selected: true
+
+  - title: "The Green Bank Ammonia Survey: Data Release 2"
+    pdf: https://ui.adsabs.harvard.edu/abs/2026ApJS..282...18P/abstract
+    venue: The Astrophysical Journal Supplement Series, 2026
+    selected: true
+
+  - title: "An Interferometric View of H-MM1. I. Direct Observation of NH3 Depletion"
+    pdf: https://ui.adsabs.harvard.edu/abs/2022AJ....163..294P/abstract
+    venue: The Astronomical Journal, 2022
+    selected: true
+
+  - title: "Neutral versus Ion Line Widths in Barnard 5: Evidence for Penetration by Magnetohydrodynamic Waves"
+    pdf: https://ui.adsabs.harvard.edu/abs/2021ApJ...912....7P/abstract
+    venue: The Astrophysical Journal, 2021
+    selected: true

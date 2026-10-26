@@ -13,33 +13,16 @@ canonical: https://jpinedaf.github.io
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-cv_link: assets/files/CV_Jaime_a4_modern2023Jan26.pdf
+cv_link: assets/files/CV_Jaime_a4_modern_20260924.pdf
 github_link: https://www.github.com/jpinedaf
+ads_link: https://ui.adsabs.harvard.edu/user/libraries/OPFOIv4SRqyc9m-VCjDdWQ
+orcid_link: https://orcid.org/0000-0002-3972-1978
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
-
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: true
-
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
-plugins:
-    - jekyll-remote-theme
 
 # The following files will be removed from the generated website.
 exclude:
