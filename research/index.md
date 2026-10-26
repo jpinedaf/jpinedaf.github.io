@@ -30,6 +30,7 @@ permalink: /research/
 
 ## Large Programs
 
+- PRODIGE &mdash; [website](https://noema-prodige.github.io/)
 - ProPStar (pilot program at IRAM)
 - ProPStarK &mdash; [website](https://propstark.github.io/)
 - GAS &mdash; [survey page](https://greenbankobservatory.org/science/gbt-surveys/gas/) &middot; [GitHub repository](https://github.com/GBTAmmoniaSurvey)
