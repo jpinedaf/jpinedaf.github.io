@@ -1,6 +1,8 @@
 :root {
   --navy: #043361;
   --accent: #3399cc;
+  --btn: #0b5fa5;
+  --btn-hover: #084a82;
   --bg: #ffffff;
   --bg-alt: #f4f7fb;
   --text: #1f2933;
@@ -75,10 +77,11 @@ img { max-width: 100%; height: auto; }
 .hero .intro { max-width: 720px; margin-top: 14px; }
 .btn {
   display: inline-block; margin: 14px 8px 0 0; padding: 8px 18px; border-radius: 4px;
-  background: var(--accent); color: #fff !important; font-weight: 500;
+  background: var(--btn); color: #fff !important; font-weight: 500;
 }
-.btn:hover { text-decoration: none; filter: brightness(1.1); }
+.btn:hover { text-decoration: none; background: var(--btn-hover); }
 .btn.secondary { background: transparent; border: 1px solid #fff; }
+.btn.secondary:hover { background: rgba(255,255,255,.15); }
 
 /* Sections */
 .section { padding: 48px 0; }
