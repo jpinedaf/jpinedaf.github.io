@@ -7,7 +7,7 @@ wide: true
 
 {% assign d = site.data.site %}
 
-<section class="hero" style="background-image: url('{{ '/assets/img/B5_transition_to_coherence.jpg' | relative_url }}');">
+<section class="hero">
   <div class="container">
     <h1>{{ site.title }}</h1>
     <p class="tagline">Star formation, gas kinematics and astrochemistry</p>
