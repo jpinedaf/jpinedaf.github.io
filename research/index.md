@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-![Transition to coherence](../assets/img/B5_transition_to_coherence.jpg)
+![Transition to coherence]({{ '/assets/img/B5_transition_to_coherence.jpg' | relative_url }})
 
 **Dense Cores.** Structure, coherence, and fragmentation in star-forming cores.
 

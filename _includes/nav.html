@@ -1,0 +1,14 @@
+{% assign nav_url = page.url | replace: 'index.html', '' %}
+<nav class="topnav" aria-label="Main">
+  <div class="container nav-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-controls="nav-links" aria-expanded="false" onclick="var l=document.getElementById('nav-links');var o=l.classList.toggle('open');this.setAttribute('aria-expanded',o)">
+      <i class="fa fa-bars"></i>
+    </button>
+    <div id="nav-links" class="nav-links">
+      {% for link in site.data.navigation.main %}
+      <a href="{{ link.url | relative_url }}"{% if link.url == nav_url %} class="active" aria-current="page"{% endif %}>{{ link.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</nav>

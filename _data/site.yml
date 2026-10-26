@@ -1,0 +1,46 @@
+themes:
+  - title: Star formation
+    image: /assets/img/card-star-formation.jpg
+    text: How molecular clouds fragment into dense cores and stars, traced through turbulence and the transition to coherence.
+  - title: Protostellar disks
+    image: /assets/img/card-protostellar-disks.jpg
+    text: The onset of disk substructures and planet formation, and how disks are fed from their surrounding envelopes.
+  - title: Astrochemistry & gas kinematics
+    image: /assets/img/card-astrochemistry.jpg
+    text: Using molecular lines as kinematic and chemical probes of streamers, infall and accretion onto young protostars.
+
+programs:
+  - title: PRODIGE
+    url: https://noema-prodige.github.io/
+    text: "Envelope to disk with NOEMA: a large program studying how protostellar disks form and grow within their envelopes."
+  - title: ProPStarK
+    url: https://propstark.github.io/
+    text: "A large program targeting the kinematics and chemistry of protostars and their feeding streamers."
+
+highlights:
+  - date: 2026
+    text: "Magnetogravitationally regulated streamer accretion onto a Class 0 protostellar system, <em>Science Advances</em>."
+    url: https://ui.adsabs.harvard.edu/abs/2026SciA...12c0413H
+  - date: 2026
+    text: "Detection of ambipolar diffusion toward the L1544 prestellar core using N2D+ and para-NH2D, <em>A&amp;A</em>."
+    url: https://ui.adsabs.harvard.edu/abs/2026A&A...711A.105A
+  - date: 2026
+    text: "PRODIGE VIII: sulfur oxides trace a streamer-driven shock in the inner envelope of a protostar, <em>A&amp;A</em>."
+    url: https://ui.adsabs.harvard.edu/abs/2026A&A...709A..53V
+
+software:
+  - title: velocity_tools
+    url: https://github.com/jpinedaf/velocity_tools
+    text: Tools for analysing velocity fields and gas kinematics in spectral-line data.
+  - title: NOEMA_Combine
+    url: https://github.com/jpinedaf/NOEMA_Combine
+    text: Scripts for combining NOEMA interferometric data with single-dish observations.
+  - title: molecular_columns
+    url: https://github.com/jpinedaf/molecular_columns
+    text: Calculation of molecular column densities from line observations.
+  - title: prodige-core
+    url: https://github.com/NOEMA-PRODIGE/prodige-core
+    text: Core data-reduction and analysis code of the PRODIGE program.
+  - title: propstark_core
+    url: https://github.com/ProPStarK/propstark_core
+    text: Core data-reduction and analysis code of the ProPStarK program.

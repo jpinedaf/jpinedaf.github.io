@@ -1,17 +1,13 @@
 main:
-
-  - title: "Contact"
-    url: contact/
-    right: true
-
-  - title: "CV"
-    url: cv/
-
-  - title: "Publications"
-    url: publications/
-
-  - title: "Research"
-    url: research/
-
   - title: "Home"
-    url:
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Software"
+    url: /software/
+  - title: "CV"
+    url: /cv/
+  - title: "Contact"
+    url: /contact/
