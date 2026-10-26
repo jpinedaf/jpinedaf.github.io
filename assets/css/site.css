@@ -115,3 +115,8 @@ img { max-width: 100%; height: auto; }
 /* Full publication list */
 .publications ol { list-style: none; padding: 0; }
 .publications li { padding: 12px 0; border-bottom: 1px solid var(--border); }
+
+.research-item { display: grid; grid-template-columns: minmax(200px, 320px) 1fr; gap: 24px; align-items: center; margin: 0 0 32px; }
+.research-item img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 8px; display: block; }
+.research-item h2 { margin-top: 0; }
+@media (max-width: 640px) { .research-item { grid-template-columns: 1fr; } }
